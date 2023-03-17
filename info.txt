@@ -1,0 +1,19 @@
+            Cores
+
+Amarelo claro: #F2A922;
+
+Amarelo mais escuro: #BF8C2C;
+
+Cinza: #BFBFBF;
+
+Cinza mais escuro: #595959;
+
+Preto: #0D0D0D;
+
+            Gradiente
+
+Preto: #030200;
+
+Cinza: #CBCBCB;
+
+Preto: #000000;

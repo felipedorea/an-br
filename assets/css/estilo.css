@@ -1,0 +1,39 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&family=Poppins:wght@300;400&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+:root{
+    /* Variaveis de fontes */
+
+    --fonteprincipal: 'Poppins', sans-serif;
+    --fontealt: 'PT Sans', sans-serif;
+
+    /* Variaveis de Cores */
+
+    --amarelo: #f2a922;
+    --amareloescuro: #bf8c2c;
+    --cinza: #bfbfbf;
+    --cinzaescuro: #595959; 
+    --cinzaoculto: #696969;
+    --preto: #030200;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    font-size: 35px;
+    font-style: italic;
+}
